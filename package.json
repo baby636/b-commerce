@@ -11,7 +11,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "@toruslabs/torus-embed": "^1.10.4",
-    "@truffle/hdwallet-provider": "1.2.6",
+    "@truffle/hdwallet-provider": "1.4.0",
     "chokidar": "^3.5.1",
     "csv-parser": "^3.0.0",
     "dotenv": "^8.2.0",

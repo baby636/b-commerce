@@ -17,7 +17,7 @@
     "dotenv": "^8.2.0",
     "fontsource-barlow": "^4.0.0",
     "fontsource-barlow-condensed": "^4.0.0",
-    "ipfs-http-client": "^48.2.2",
+    "ipfs-http-client": "^50.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
